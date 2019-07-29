@@ -11,6 +11,6 @@ $ansible-playbook run.yml -i invenory -vvv
 ## Step1 
 create each template for pre_check_actions, ftp_actions, upgrade_actions and post_check_acitons
 ## Step2
-create one work flow template by compainging of above four templates
+create one work flow template by combining of above four templates
 ## Step3
 create survey instead of using ios_var.yml
